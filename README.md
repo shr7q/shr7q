@@ -8,14 +8,12 @@
 
 I'm an AI Engineer and graduate student at the University of Maryland with hands-on experience building **end-to-end AI systems** including:
 
-- 🤖 **Autonomous AI Agents** that reason, plan, and take action
-- 🧠 **Retrieval-Augmented Generation (RAG)** systems with grounded responses
-- 🔗 **Multi-Agent Orchestration** for complex problem-solving
-- 🚀 **Production GenAI Applications** with observability and evaluation
+- **Autonomous AI Agents** that reason, plan, and take action
+- **Retrieval-Augmented Generation (RAG)** systems with grounded responses
+- **Multi-Agent Orchestration** for complex problem-solving
+- **Production GenAI Applications** with observability and evaluation
 
 My focus is on building **practical AI products** that move beyond demos into reliable, production-grade systems with strong ML foundations, scalable architectures, and real-world reliability.
-
-**Previously:** Machine Learning Intern at CNPC USA, where I developed deep learning models for industrial drilling optimization—improving R² from 0.66 → 0.75 over production XGBoost baselines.
 
 **Currently Based In:** College Park, MD | **Open To:** Full-time roles, Contract opportunities, Interesting AI challenges
 
