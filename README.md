@@ -139,20 +139,35 @@ A sophisticated **hierarchical multi-agent system** that orchestrates AI agents 
 
 ## 💡 Technical Expertise
 
-### **Languages**
+### 🔤 Programming Languages
 `Python` • `TypeScript` • `SQL` • `Go` • `R`
 
-### **AI/ML Frameworks**
-`PyTorch` • `TensorFlow` • `scikit-learn` • `XGBoost` • `Hugging Face`
+### 🧠 AI/ML Frameworks & Libraries
+`PyTorch` • `TensorFlow` • `scikit-learn` • `XGBoost` • `Hugging Face Transformers` • `Random Forest` • `Keras`
 
-### **GenAI & Agentic Systems**
-`LangChain` • `LangGraph` • `LangSmith` • `RAG` • `MCP` • `Multi-Agent Systems` • `Prompt Engineering`
+### 🤖 GenAI & Agentic Systems
+`LangChain` • `LangGraph` • `LangSmith` • `RAG` • `ReAct` • `Multi-Agent Systems` • `MCP` • `Prompt Engineering` • `Claude API`
 
-### **Backend & Infrastructure**
-`FastAPI` • `Docker` • `Firebase` • `AWS` • `GCP` • `Azure` • `Vercel`
+### 🗄️ Databases & Retrieval Systems
+`FAISS` • `ChromaDB` • `Vector Embeddings` • `SQLAlchemy` • `Vector Databases` • `Semantic Search`
 
-### **Databases & Retrieval**
-`FAISS` • `ChromaDB` • `SQLAlchemy` • `Vector Databases`
+### 🌐 Backend & API Development
+`FastAPI` • `Flask` • `Firebase` • `REST APIs` • `GraphQL` • `Server Architecture`
+
+### 🎨 Frontend & Full-Stack
+`Next.js 14` • `React` • `TypeScript` • `Tailwind CSS` • `Streamlit` • `Vercel`
+
+### ☁️ Cloud & Infrastructure
+`Docker` • `Kubernetes` • `AWS` • `GCP` • `Azure` • `CI/CD` • `GitHub Actions` • `Containerization`
+
+### 🔍 Data Processing & Tools
+`Git` • `VS Code` • `pytest` • `httpx` • `asyncio` • `Pandas` • `NumPy` • `Scikit-learn` • `Jupyter Notebooks`
+
+### 🛠️ Specialized Tools & Platforms
+`MCP Inspector` • `LangSmith Tracing` • `Hunter.io API` • `GitHub REST API` • `Google ADK` • `Groq LLM` • `Serper API` • `OpenStreetMap API` • `Google Search API` • `OpenAI API` • `Anthropic Claude API`
+
+### 📊 ML Operations & Techniques
+`Bayesian Optimization` • `Hyperparameter Tuning` • `Feature Engineering` • `Permutation Importance` • `Domain-Driven Feature Selection` • `Model Evaluation` • `Reproducible ML Pipelines`
 
 ---
 
